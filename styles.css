@@ -67,3 +67,32 @@ a:link {
     cursor: pointer;
     user-select: none;
 }
+
+.advanced{
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+}
+
+.bar{
+  border-bottom: 1px solid #ebebeb;
+}
+
+.p-advanced{
+  font-size: 16px;
+  color: #333333;
+}
+
+.div-advanced{
+  margin: 25px;
+}
+
+.input{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.left{
+  
+}
